@@ -14,12 +14,17 @@ There are 3 main sections on the web app:
           and what variables are included
 2. Plot
         - includes a plot of genres vs. global sales
+        
         - slider widgets allow user to change the data on the plot by choosing
           a starting and ending year
+          
         - checkbox group widget allows user to pick which genres to include in the plot
+        
         - color of bars on plot can be switched with radio buttons
 3. Table
         - includes a data table with platforms as well as their average global sales in millions
+        
         - checkbox group widget allows user to pick which platforms to include in the table
+        
         - users can pick one genre with radio buttons, which specifies what genre of sales are
           taken into account when generating the data for the sales column
