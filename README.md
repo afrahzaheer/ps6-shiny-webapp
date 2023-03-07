@@ -10,6 +10,7 @@ in millions, etc.
 There are 3 main sections on the web app:
 
 1. Introduction
+
         - short overview and background of the dataset, including how many observations
           and what variables are included
 2. Plot
